@@ -1,2 +1,3 @@
 # OC2021_LightsOutKotlin
-https://github.com/RyotaHiyama/OC2021_LightsOutJava　これのKotlin版
+https://github.com/RyotaHiyama/OC2021_LightsOutJava
+これのKotlin版
