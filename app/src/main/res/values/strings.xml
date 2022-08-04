@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OC2021_Games_Kotlin</string>
+    <string name="start">START</string>
+    <string name="戻る">戻る</string>
+    <string name="警告">1度知っちゃうとつまらなくなるよ？\nbyアプリ作成者</string>
+</resources>
